@@ -21,3 +21,5 @@ public class Reader {
 		
 		return num;}
 }
+
+***Worked on with Malcolm Akinje
